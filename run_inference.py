@@ -1,6 +1,7 @@
 """
-Method adapted from GLAM function `run_model`
-which is licensed under a GNU Affero General Public License v3.0.
+Method adapted from GLAM function `run_model` by
+Kangning Liu, Yiqiu Shen, Nan Wu, Jakub Chledowski, Carlos Fernandez-Granda, 
+and Krzysztof J. Geras, which is licensed under a GNU Affero General Public License v3.0.
 """
 
 import sys
